@@ -40,7 +40,9 @@ function App() {
         },
       ],
     },
+    {basename : '/app1'}
   ]);
+
 
   return (
     <>
